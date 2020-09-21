@@ -13,9 +13,9 @@ Use the function `all_contracts` within a cell to display all current contracts,
 
 ## Contact
 
-Name:  Ross Pun
-Email:  rossthepun@gmail.com
-Discord:  https://discord.gg/C74d7RK  (`Rossonius Pun#0042`)
+* Name:  Ross Pun
+* Email:  rossthepun@gmail.com
+* Discord:  https://discord.gg/C74d7RK  (`Rossonius Pun#0042`)
 
 
 ## Copyright
